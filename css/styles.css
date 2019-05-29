@@ -5,6 +5,13 @@ h1 {
   color: purple;
 }
 
+h2{
+  text-align:center;
+  font-family: fantasy;
+  font-size: 35px;
+  color: blue;
+}
+
 body {
   background-color: #ffcccc;
 }
@@ -12,13 +19,35 @@ body {
 img {
   height: 400px;
   width: 400px;
-  margin: 50px;
+  margin: 50px
 }
 
 p {
-  font-family: ;
+  font-family:fantasy;
+  font-size: 30px
 }
 
 .I-90 {
   text-align: left;
+}
+
+ul {
+  font-family: fantasy;
+  font-style: oblique;
+  font-weight: bold;
+  color: #e6005c;
+  margin: 50px;
+}
+
+li {
+  padding: 25px;
+}
+
+.index_photo {
+  width: 1000px;
+  height: 600px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
