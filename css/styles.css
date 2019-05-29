@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 35px;
+  color: purple;
+}
+
+body {
+  background-color: #ffcccc;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  margin: 50px;
+}
+
+p {
+  font-family: ;
+}
+
+.I-90 {
+  text-align: left;
+}
